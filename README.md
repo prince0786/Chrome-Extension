@@ -1,48 +1,36 @@
-# eCommerce-Chrome-Extension
+# WorkLikeElon Chrome Extension
 
-We are working on creating a Chrome extension for the eCommerce PriceDrop alert feature. This Chrome extension allows users to receive notifications when the prices of their favorite products on eCommerce websites drop below a desired threshold. It helps users stay updated on price changes and make informed purchasing decisions.
+## Description
+
+The WorkLikeElon Chrome Extension is designed to help users increase their productivity and work efficiency by emulating the work habits and techniques of Elon Musk, the renowned entrepreneur and innovator. This extension incorporates various features and functionalities inspired by Elon Musk's work style, allowing users to adopt his strategies and achieve better results in their own work.
 
 ## Features
 
-- Monitors product pages on supported eCommerce websites.
-- Detects and saves the initial price of the product.
-- Allows users to set a desired price drop threshold.
-- Sends notifications when the price drops below the desired threshold.
-- Highlights the price change on the webpage for easy visibility.
-- Provides a browser action button to access the extension's popup interface.
-- Supports multiple eCommerce websites.
+- **Focus Mode**: Activate the Focus Mode to eliminate distractions and enhance concentration. This mode blocks access to social media websites and other non-work-related pages, helping users stay focused on their tasks.
+
+- **Task Management**: The Task Management feature allows users to create and manage their tasks effectively. Users can set priorities, deadlines, and reminders for each task, ensuring that they stay organized and on track.
+
+- **Time Tracking**: WorkLikeElon includes a Time Tracking feature that allows users to monitor the time spent on each task. This feature provides insights into productivity levels and helps users identify areas for improvement.
+
+- **Pomodoro Technique**: The Pomodoro Technique is a time management method that breaks work into intervals, typically 25 minutes, separated by short breaks. The WorkLikeElon extension incorporates this technique, enabling users to set Pomodoro timers and work in focused bursts.
+
+- **Motivational Quotes**: To keep users motivated and inspired throughout their work, the extension displays motivational quotes from Elon Musk on the browser's new tab page.
 
 ## Installation
 
-1. Clone or download the repository to your local machine.
+To install the WorkLikeElon Chrome Extension, follow these steps:
+
+1. Clone or download the repository.
+bash
+git clone https://github.com/your-username/WorkLikeElon.git
 2. Open Google Chrome and go to `chrome://extensions`.
-3. Enable "Developer mode" using the toggle switch in the top right corner.
-4. Click on "Load unpacked" and select the directory where you cloned/downloaded the repository.
-5. The extension should now be installed and ready to use.
+
+3. Enable the **Developer mode**.
+
+4. Click on **Load unpacked** and select the downloaded extension folder.
+
+5. The WorkLikeElon extension will be installed and ready to use.
 
 ## Usage
 
-1. Visit an eCommerce website and navigate to a product page.
-2. The extension will automatically detect the product details and save the initial price.
-3. Click on the extension's browser action button to access the popup interface.
-4. Set your desired price drop threshold in the popup interface.
-5. Leave the product page and continue browsing.
-6. If the price drops below the threshold, you will receive a notification.
-7. Click on the notification to view the updated price on the eCommerce website.
-8. You can disable or uninstall the extension by going to `chrome://extensions`.
-
-## Application
-
-- Stay updated on price changes
-
-- Make informed purchasing decisions
-
-- Save time and effort
-
-- Customize price drop thresholds
-
-- Easy to use
-
-- Expandable support
-
-With the PriceDrop Alert Chrome extension, effortlessly track price drops, make informed purchasing decisions, and save money on your favorite products while shopping on eCommerce websites.
+Once the extension is installed, you can access its features by clicking on the extension icon in the browser toolbar. From there, you can activate Focus Mode, create and manage tasks, track time, set Pomodoro timers, and view motivational quotes.
